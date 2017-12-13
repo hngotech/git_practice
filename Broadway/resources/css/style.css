@@ -1,0 +1,46 @@
+html {
+  font-family: Helvetica;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+.flatiron h1 {
+  font-size: 70px;
+}
+
+.flatironone {
+  background-image: url(/Users/Hendo/git_practice/Broadway/resources/images/the-flatiron-building.png);
+  text-align: center;
+  color: white;
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
+
+.supporting {
+  text-align: center;
+}
+
+#process {
+  font-size: 32px;
+}
+
+#flatirontwo {
+  background-image: url(/Users/Hendo/git_practice/Broadway/resources/images/the-flatiron-building.png);
+  text-align: center;
+  color: white;
+}
+
+.footer {
+  background-color: gray;
+  text-align: left;
+}
+
+#copyright {
+  font-size: 12px;
+  color: white;
+}
